@@ -1,0 +1,1 @@
+# MaxPreps scraper script
